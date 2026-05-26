@@ -54,7 +54,7 @@ I am an Electrical Power and Control Engineering student at the **Faculty of Eng
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Hedaya&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
 </p>
 
 ---
