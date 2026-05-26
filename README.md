@@ -10,7 +10,7 @@
 I am an Electrical Power and Control Engineering student at the **Faculty of Engineering at Shoubra (Benha University)**, blending the world of hardware, automation, and smart control with modern web technologies. 
 
 * 🎓 **Education:** B.Sc. in Electrical Power and Control Engineering, Shoubra Faculty of Engineering.
-* 💻 **Passionate About:** Front-end Web Development.
+* 💻 **Passionate About:** Electrical Power and some programming languages.
 
 ---
 
